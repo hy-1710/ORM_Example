@@ -1,5 +1,5 @@
 # ORM_Example
-Androiid ORM example
+Android ORM example
 
 This is basic ORM example using `Sugar ORM` library. it uses `Loader` for retrieving data from database, `RecyclerView-v7` for display list of records & `SrachView` for searching functionality.
 
